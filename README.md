@@ -1,3 +1,4 @@
+<img width="2677" height="2228" alt="PART1" src="https://github.com/user-attachments/assets/6f80c2a6-cc49-49f7-8c2b-431df6545a85" />
 # Philosophers Project (Dining Philosophers Problem)
 
 A multithreaded simulation of the classic **Dining Philosophers Problem**, implemented in C using POSIX threads (pthreads) and mutex synchronization.
